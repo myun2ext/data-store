@@ -1,17 +1,14 @@
-戦闘妖精雪風
-Yukikaze
-===
-characters: [
+戦闘妖精雪風 (Yukikaze)
+# characters
 深井 零 (Hukai Rei)
 James Booker
-]
-aircrafts: [
+# aircrafts
 FAF (Fairy Air Force)
 FFR-31MR (FRX-47)
 FFR-31MR/D Super Sylph
 FRX-99 Rafe
 FRX-00 (FFR-41/FFR-41MR) Mave
-]
+# others
 JAM
 Flip Knight System
 超空間通路
