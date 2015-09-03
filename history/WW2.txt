@@ -1,0 +1,3 @@
+World War II
+start: 1 September 1939
+end:   2 September 1945
