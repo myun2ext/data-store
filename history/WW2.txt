@@ -1,3 +1,31 @@
 World War II
+
 start: 1 September 1939
 end:   2 September 1945
+
+# Main Allied leaders
+Soviet Union Joseph Stalin
+United States Franklin Roosevelt
+United Kingdom Winston Churchill
+Republic of China (1912–49) Chiang Kai-shek
+
+# Main Axis leaders
+Nazi Germany Adolf Hitler
+Empire of Japan Hirohito
+Kingdom of Italy Benito Mussolini
+
+# Casualties and losses
+## Allies
+Military dead:
+Over 16,000,000
+Civilian dead:
+Over 45,000,000
+Total dead:
+Over 61,000,000 (1937–45)
+
+## Axis
+Over 8,000,000
+Civilian dead:
+Over 4,000,000
+Total dead:
+Over 12,000,000 (1937–45)
